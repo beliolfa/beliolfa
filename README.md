@@ -6,7 +6,7 @@ I'm Javier Martínez.
 
 First of all, I'm a person. Married to the best woman in the whole planet and father of two of the most beautiful (and annoying) children in the universe.
 
-Then I'm Lead Developer at [64 Robots](https://www.64robots.com/). The most kickass software agency on the United States. We do cool products with Nuxt, Laravel and Tailwind.
+I'm a Senior Frontend Developer. I (try to) do cool products with Nuxt, Laravel and Tailwind.
 
 ## Get in touch 📞
 - You can follow me on Twitter [@beliolfa](https://twitter.com/beliolfa)
